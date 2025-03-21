@@ -1,5 +1,4 @@
-# Test
-
+# Test of % modulus
 num = 2%30
 print(num)
 num = 20%3
